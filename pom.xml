@@ -98,13 +98,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Releases Nexus Repository</name>
-	      <url>http://172.31.41.140:9980/phoenix/repository/walmart-release/</url>
+	      <url>http://43.205.118.190:9980/nexus/repository/Facebook-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>http://172.31.41.140:9980/phoenix/repository/walmart-snapshot/</url>
+	      <url>http://43.205.118.190:9980/nexus/repository/Facebook-Snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
